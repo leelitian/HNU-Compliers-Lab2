@@ -1,0 +1,12 @@
+/* reserved words */
+else if int 
+return void while
+
+/* operation */
++ - * / < <= > >=
+== != = ; , ()
+[] {} /* */
+
+/* ID and NUM */
+number 806
+string JXX

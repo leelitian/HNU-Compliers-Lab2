@@ -1,0 +1,7 @@
+/* bad examples */
+void string2int()
+{
+	a += b;
+	a = ~(!b);
+	b := a ^ b;
+}
